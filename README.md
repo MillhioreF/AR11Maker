@@ -1,4 +1,4 @@
-AR11Maker
+MapSpeedChangerPlus
 =========
 
 Converts osu! beatmaps to new speeds.
